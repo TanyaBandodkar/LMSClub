@@ -1,3 +1,3 @@
 age=11
-txt="my name is Tanya, and I am {}"
-print(txt.format(age))
+txt="my name is Tanya, and I am "  +str(age)+" years old"
+print(txt)
