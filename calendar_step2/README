@@ -1,0 +1,6 @@
+This program, will call a funcion named MySchedule()
+
+The MySchedule() function will print the schedule.
+
+To run this program, use the command below:
+python3 calendar_step2.py/
